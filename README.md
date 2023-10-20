@@ -12,4 +12,4 @@ ____
 # Тесты
 Тест программы в PyCharm Edu 2022.2.2
 ___
-![Тест программы в Microsoft VS code](https://github.com/I-D-S/Caesar/blob/main/2022-09-24.png)
+![Тест программы](photo_2023-10-20_16-47-00.jpg)
